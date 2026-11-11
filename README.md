@@ -6,7 +6,12 @@ con **árboles (ABB y AVL)** y **grafos mixtos** (BFS, DFS y Dijkstra), todo imp
 
 > Los tiempos son **datos didácticos de simulación**. No son información oficial de tránsito ni de
 > respuesta a emergencias.
-
+| | |
+|---|---|
+| **Autor** | José Serpa |
+| **Asignatura** | Estructura de Datos II |
+| **Docente** | Jaider Reyes |
+| **Universidad** | Corporación Universitaria Antonio José de Sucre |
 ## Cómo ejecutarlo
 
 | Forma | Comando / pasos |
