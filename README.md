@@ -6,12 +6,7 @@ con **árboles (ABB y AVL)** y **grafos mixtos** (BFS, DFS y Dijkstra), todo imp
 
 > Los tiempos son **datos didácticos de simulación**. No son información oficial de tránsito ni de
 > respuesta a emergencias.
-| | |
-|---|---|
-| **Autor** | José Serpa |
-| **Asignatura** | Estructura de Datos II |
-| **Docente** | Jaider Reyes |
-| **Universidad** | Corporación Universitaria Antonio José de Sucre |
+
 ## Cómo ejecutarlo
 
 | Forma | Comando / pasos |
@@ -135,6 +130,6 @@ git commit -m "feat: núcleo, fábrica de datos y aplicación de consola"
 git add src/test docs
 git commit -m "test: pruebas JUnit 5 y reporte de ejemplo"
 git branch -M main
-git remote add origin https://github.com/<usuario>/RedSegura.git
+git remote add origin https://github.com/(https://github.com/jserpa004)/RedSegura.git
 git push -u origin main
 ```
